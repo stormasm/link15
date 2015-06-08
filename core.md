@@ -18,7 +18,7 @@ permalink: /core/
 
 ### Github Accounts
 * [Current](http://github.com/stormasm)
-* [Past](http://stormasm.github.io/resume/github/)
+* [Past](http://stormasm.github.io/link15/github/)
 
 ### Front End
 
