@@ -14,3 +14,5 @@ My vision of life is all about a daily practice of making progress each and ever
 I practice these skills each and every day in my life and it translates across to my personal life as well.  I love teaching English to native Spanish speakers, and I have done so in the past while living in South America for extended periods of time both in Ecuador and Argentina.
 
 In 2003, I founded Arcadian Group with the primary focus of giving something back to society. Since that time I have worked on several major projects which I would call contributions. One of them being a Science and Math Charter High School for students in grades 9 through 12 which was opened in Albuquerque, New Mexico in August 2005 with $400,000 of support from the Bill and Melinda Gates Foundation through their High Tech High Initiative. I co-founded the school with Mayor Martin Chavez and Robin Troup an educator.
+
+[Old Bio](http://stormasm.github.io/link15/bio/)
