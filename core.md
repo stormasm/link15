@@ -4,6 +4,15 @@ title: Core Competencies
 permalink: /core/
 ---
 
+
+### Bitcoin
+* [Btcsuite](https://github.com/btcsuite)
+* [Bitcore](http://bitcore.io/guide/)
+
+### Containers
+* [Rkt](https://github.com/coreos/rkt)
+* [Libcontainer](https://github.com/docker/libcontainer)
+
 ### Back End
 * [Etcd](https://coreos.com/using-coreos/etcd/)
 * [Redis](http://redis.io)
