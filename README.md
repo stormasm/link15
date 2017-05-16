@@ -20,5 +20,5 @@ rvm gemset create jekyll
 rvm gemset use jekyll
 gem install bundler
 bundle install
-rvm gemset current
+rvm current
 ```
